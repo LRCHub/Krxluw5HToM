@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天の国でお茶会を",
+  "base_artist": "Ro2noki",
+  "createdAt": "2026-02-12T06:59:11.429524Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天の国でお茶会を",
+      "artist": "Ro2noki",
+      "has_synced": false,
+      "path": "select/pl_01_天の国でお茶会を_Ro2noki.txt"
+    }
+  ]
+}
